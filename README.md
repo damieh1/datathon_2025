@@ -16,7 +16,7 @@ https://isca.indiana.edu/publication-research/social-media-project/datathon-2025
 
 ## Challenge Overview
 
-- Before beginning your tasks, please read the full challenge description thoroughly: [2025 Task Instructions](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/Datathon_Challenge.pdf)
+- Before beginning your tasks, please read the full challenge description thoroughly: [2025 Task Instructions](https://github.com/damieh1/datathon_2025/blob/main/Datathon_Challenge.pdf)
 - Also, check all the links in this ReadMe file.
 
 
@@ -31,7 +31,7 @@ Tasks:
 2. Define your scraping focus (hashtags, user groups, topics) and document your rationale and potential biases.
 3. Annotate your data using a structured definition of antisemitism and hate speech.
    - We provide a standardized annotation scheme based on the **IHRA Working Definition (IHRA-WDA)**, including paragraph-level categories such as conspiracy narratives, Holocaust distortion, and double standards toward Israel.
-   - This scheme is available here: [Annotation Scheme (GitHub)](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/annotation_scheme.md)
+   - This scheme is available here: [Annotation Scheme (GitHub)]([https://github.com/damieh1/datathon_2025/blob/main/annotation_scheme.md)
    - Participants are expected to use this scheme or adapt it with justification.
    - However, if your team prefers to engage with alternative frameworks such as the [**Nexus Document**](https://nexusproject.us/nexus-resources/the-nexus-document/) or the [**Jerusalem Declaration on Antisemitism (JDA)**](https://jerusalemdeclaration.org), please note that these do not currently offer equivalent category-level structures. Therefore, any adaptation should include:
       - A mapping of concepts from the chosen framework into operational categories
@@ -48,7 +48,7 @@ Tasks:
 
    - Alternatively, you may use other tools such as **Label Studio** or **INCEpTION**. These rely on offline data and require you to preprocess and import tweet text manually. If you choose this route, please ensure your label set and outputs match the required format for evaluation.
 
-5. Prepare a [X/Twitter dataset](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/create__X_dataset.md), and include a dataset report with label definitions, distribution information, and annotation rationale.
+5. Prepare a [X/Twitter dataset](https://github.com/damieh1/datathon_2025/blob/main/create__X_dataset.md), and include a dataset report with label definitions, distribution information, and annotation rationale.
 
 ---
 ### #2 Challenge: Modeling and Evaluation (July 20–27, 2025)
