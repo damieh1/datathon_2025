@@ -55,6 +55,8 @@ Tasks:
 
 Goal: Use our pre-annotated gold standard dataset to build and evaluate a hate speech detection system.
 
+View the full list of recommended models and links here: [Recommended Transformer Models](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/NLP-Tools%20and%20Guides.md#recommended-transformer-models-for-hate-speech--antisemitism-detection)
+
 Participants can select and combine the following curated datasets:
 - English data:
    - [Antisemitism on Twitter: A Dataset for Machine Learning and Text Analytics](https://zenodo.org/records/14448399)
