@@ -37,8 +37,7 @@ To complete this challenge, make sure you have:
 3. [Format for Bright Data Scraping](#3-format-for-bright-data-scraping)  
 4. [Clean and Parse Your Scraped Tweet Data](#4-clean-and-parse-your-scraped-tweet-data)  
 5. [What to Submit](#5-what-to-submit)
-6. [Working with Colab](#6-working-with-data-output-in-google-colab)
-7. [Further Notes](#7-further-notes)
+6. [Further Notes](#7-further-notes)
 
 
 ---
@@ -328,27 +327,8 @@ transformed_df.to_csv(output_file, index=False)
 
 ---
 
-### 6. Working with Data Output in Google Colab
 
-To parse, filter, and prepare your tweet dataset using the provided **Python** 🐍 script, we recommend using **Google Colab**. 
-
-***Colab** allows you to run the parsing script in [Section 4](#4-clean-and-parse-your-scraped-tweet-data) without installing Python on your personal computer.*
-
-#### Steps:
-1. Go to [https://colab.research.google.com](https://colab.research.google.com)
-2. Sign in using a **Google account** (this is required to upload files)
-3. Click **"New Notebook"**
-4. Upload your Bright Data `.csv` file:
-   ```python
-   from google.colab import files
-   uploaded = files.upload()
-   ```
-5. Copy & Paste the code snipped *from Section 4* into the Notebook and run the code
-7. Share the script with your team if you want to collaborate
-   
----
-
-## 7. Further Notes
+## 6. Further Notes
 
 - You will work and collaborate in small teams up to 4—5 members
 - Be consistent: only collect tweets containing the **exact keywords or hashtags**
