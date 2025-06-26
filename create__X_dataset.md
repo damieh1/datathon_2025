@@ -164,7 +164,7 @@ Each tweet object inside `posts` includes:
 
 ### Uploading Your File in Colab
 
-When you open your notebook in Google Colab, follow these steps to upload your Bright Data output file:
+🐍 When you open your notebook in Google Colab, follow these steps to upload your Bright Data output file:
 
 1. Click the **folder icon** (📁) on the left-hand side.
 2. Open the folder named **`content/`**.
@@ -173,15 +173,16 @@ When you open your notebook in Google Colab, follow these steps to upload your B
 5. Once uploaded, run the code snippet below to format your data.
 
 #### Parsing Script: Extract Tweets and Format for Annotation
-
-We recommend using **Python** 🐍 for this task.  
-
+ 
 - Please see the code snippet below for parsing and extracting the Tweet ID and description for each tweet.
 
 *What the script does* — It processes the `.csv` file you receive from **Bright Data** and extracts:
   1. all relevant tweet-level information
   2. filters posts by your chosen keywords or hashtags
   3. saves as a `.csv` for further filtering and annotation.
+
+
+[![Run this Code In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/damieh1/datathon_2025/blob/main/Pre_processing_Bright_Data.ipynb)
 
 Important: *Check [Section 6](#6-working-with-data-output-in-google-colab) to learn how to run the code without installing Python on your personal computer.*
 ```python
