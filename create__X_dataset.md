@@ -182,7 +182,7 @@ Each tweet object inside `posts` includes:
   3. saves as a `.csv` for further filtering and annotation.
 
 
-[![Run this Code In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/damieh1/datathon_2025/blob/main/Pre_processing_Bright_Data.ipynb)
+[![Run this Code In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/damieh1/datathon_2025/blob/main/Pre_processing_Bright_Data.ipynb)
 
 Important: *Check [Section 6](#6-working-with-data-output-in-google-colab) to learn how to run the code without installing Python on your personal computer.*
 ```python
