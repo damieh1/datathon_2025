@@ -48,7 +48,7 @@ Tasks:
 
    - Alternatively, you may use other tools such as **Label Studio** or **INCEpTION**. These rely on offline data and require you to preprocess and import tweet text manually. If you choose this route, please ensure your label set and outputs match the required format for evaluation.
 
-5. Prepare a [X/Twitter dataset](https://github.com/damieh1/datathon_2025/blob/main/create__X_dataset), and include a dataset report with label definitions, distribution information, and annotation rationale.
+5. Prepare a [X/Twitter dataset](https://github.com/damieh1/datathon_2025/blob/main/create__X_dataset.md), and include a dataset report with label definitions, distribution information, and annotation rationale.
 
 ---
 ### #2 Challenge: Modeling and Evaluation (July 20–27, 2025)
