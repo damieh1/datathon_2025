@@ -184,7 +184,6 @@ Each tweet object inside `posts` includes:
 
 [![Run this Code In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damieh1/datathon_2025/blob/main/Pre_processing_Bright_Data.ipynb)
 
-Important: *Check [Section 6](#6-working-with-data-output-in-google-colab) to learn how to run the code without installing Python on your personal computer.*
 ```python
 # Load Libraries
 import pandas as pd
@@ -273,14 +272,15 @@ Each team should submit the following:
 
 Once you've parsed your tweets, you can transform the output into the required format for the annotation portal.
 
-### 🐍 Code: Convert to Annotation-Ready Format
+### Convert to Annotation-Ready Format
 
-- This code generates a `.csv` file with the two required columns: `TweetID` and `Username`.
+🐍 This code generates a `.csv` file with the two required columns: `TweetID` and `Username`.
 
 ```python
 import pandas as pd
 
 # Step 1: Load the uploaded file
+
 # Adjust the path if necessary — this assumes you're using the default Colab folders
 parsed_df = pd.read_csv("/content/sample_data/parsed_tweets_filtered.csv")
 
@@ -289,8 +289,8 @@ transformed_df = parsed_df.rename(columns={"tweet_id": "TweetID"})[["TweetID", "
 
 # Step 3: Save and download the result
 output_file = "/content/sample_data/parsed_tweets_for_annotation.csv"
+
 transformed_df.to_csv(output_file, index=False)
-files.download(output_file)
 ```
 
 
