@@ -31,7 +31,7 @@ Tasks:
 2. Define your scraping focus (hashtags, user groups, topics) and document your rationale and potential biases.
 3. Annotate your data using a structured definition of antisemitism and hate speech.
    - We provide a standardized annotation scheme based on the **IHRA Working Definition (IHRA-WDA)**, including paragraph-level categories such as conspiracy narratives, Holocaust distortion, and double standards toward Israel.
-   - This scheme is available here: [Annotation Scheme (GitHub)]([https://github.com/damieh1/datathon_2025/blob/main/annotation_scheme.md)
+   - This scheme is available here: [Annotation Scheme (GitHub)](https://github.com/damieh1/datathon_2025/blob/main/annotation_scheme.md)
    - Participants are expected to use this scheme or adapt it with justification.
    - However, if your team prefers to engage with alternative frameworks such as the [**Nexus Document**](https://nexusproject.us/nexus-resources/the-nexus-document/) or the [**Jerusalem Declaration on Antisemitism (JDA)**](https://jerusalemdeclaration.org), please note that these do not currently offer equivalent category-level structures. Therefore, any adaptation should include:
       - A mapping of concepts from the chosen framework into operational categories
