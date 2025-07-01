@@ -30,11 +30,11 @@ You can fine-tune a Hugging Face transformer model using your annotated dataset 
 
 ## Official Gold Standard Datasets
 
-### Dataset 1: Antisemitism on Twitter (2023–2024)  
-[Zenodo Record – Antisemitism on Twitter](https://zenodo.org/records/14448399)
+### Dataset 1: Antisemitism on Twitter: A Dataset for Machine Learning and Text Analytics 
+[Zenodo Record](https://zenodo.org/records/14448399)
 
-### Dataset 2: Trends in Antisemitism and Counter-Speech (Before & After Oct 7)  
-[Zenodo Record – Antisemitism on X (Oct 7 Analysis)](https://zenodo.org/records/15025646)
+### Dataset 2 Antisemitism on X: A Dataset Tracking Trends in Counter-Speech and Israel-Related Discourse Before and After October 7 
+[Zenodo Record](https://zenodo.org/records/15025646)
 
 
 <summary> Dataset Fields</summary>
