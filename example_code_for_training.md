@@ -19,7 +19,7 @@ You'll use Google Colab to train and evaluate a classifier on tweets labeled as 
 
 You can fine-tune a Hugging Face transformer model using your annotated dataset directly in **Google Colab**.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/damieh1/datathon_2025/blob/main/Fine_tune_HF_Model.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/damieh1/datathon_2025/blob/main/example_code_challenge_2.ipynb)
 
 ---
 
