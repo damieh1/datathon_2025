@@ -1,5 +1,5 @@
 # Challenge #2: Fine-Tune a Model to Detect Antisemitism on Social Media
-Welcome to Challenge #2 of the 2025 Datathon: Fine-Tuning a Transformer Model for Antisemitism Detection
+Welcome to **Challenge #2** of the 2025 Datathon: Fine-Tuning a Transformer Model for Antisemitism Detection
 
 In this task, your goal is to build, fine-tune, and evaluate a machine learning model that can detect antisemitic content in social media posts. You’ll work with our pre-annotated goldstandard datasets, train a classification model using transformer-based architectures, and interpret your results through both quantitative metrics and qualitative analysis. This guide provides step-by-step instructions for preparing your data, selecting a model, and running your training workflow using Google Colab.
 
