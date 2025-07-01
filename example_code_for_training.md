@@ -7,11 +7,11 @@ You'll use Google Colab to train and evaluate a classifier on tweets labeled as 
 
 ### Guide Agenda
 
-- [Open in Colab](#fine-tune-a-transformer-model-using-colab)
-- [Dataset Overview](#official-gold-standard-datasets)
-- [Training Requirements](#dataset-requirements)
-- [Example Training Code](#training-script-python-in-colab)
-- [Evaluation Guidelines](#model-evaluation-what-you-must-submit)
+1. [Open in Colab](#fine-tune-a-transformer-model-using-colab)
+2. [Dataset Overview](#official-gold-standard-datasets)
+3. [Training Requirements](#dataset-requirements)
+4. [Example Training Code](#training-script-python-in-colab)
+5. [Evaluation Guidelines](#model-evaluation-what-you-must-submit)
 
 ---
 
