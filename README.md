@@ -150,8 +150,7 @@ Selected participants will receive a certificate recognizing their achievement a
 The material from the 2020 Hackathon and Datathon on Antisemitism in Social Media can be found here:  
 [https://github.com/dcavar/AntisemitismDatathon2020](https://github.com/dcavar/AntisemitismDatathon2020)
 
-Information on the 2024 Datathon and Machine Learning Competition can be found here:  
-[https://isca.indiana.edu/publication-research/social-media-project/datathon-2024/index.html]
+Information on the 2024 Datathon and Machine Learning Competition can be found [here](https://isca.indiana.edu/publication-research/social-media-project/datathon-2024/index.html)
 
 [PPT from January 15, 2023, on psychological and historical reasons for racism and antisemitism](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/Psychological%20and%20Historical%20Reasons%20for%20Racism%20and%20Antisemitism.pptx)
 
