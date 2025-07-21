@@ -7,6 +7,7 @@ Welcome to **Challenge #1** of the 2025 Datathon: **Creating a Discourse Dataset
 
 In this task, your goal is to collect, clean, and annotate a small but focused dataset of tweets related to antisemitism and Israel-related discourse. You’ll gain practical experience with platform search, data scraping, and structured annotation. This ReadMe guides you through collecting X/Twitter tweet data using Bright Data and preparing it for upload to our annotation portal: [annotate.osome.iu.edu](https://annotate.osome.iu.edu).
 
+[![Watch the video tutorial for Challenge #1](https://img.youtube.com/vi/EMuQFb-H0CE/hqdefault.jpg)](https://www.youtube.com/watch?v=EMuQFb-H0CE)
 
 ---
 
