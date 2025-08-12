@@ -1,7 +1,7 @@
 
 # Evaluation Methodology and Results
 
-The following presents the evaluation methodology and outcomes for the 2025 ISCA Datathon & Machine Learning Competetion. In total six teams engaged in two complementary challenges: (i) scraping adataset and apply an annotation framework for antisemitism detection, and (ii) model fine-tuning and evaluation of a goldstandard dataset.
+The following presents the evaluation methodology and outcomes for the [ISCA Datathon & Machine Learning Competetion](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main). In total six teams engaged in two complementary challenges: (i) scraping adataset and apply an annotation framework for antisemitism detection, and (ii) model fine-tuning and evaluation of a goldstandard dataset.
 
 *The scoring framework integrates the official competition rubrics with additional variables related to team composition, prior experience, and dropout rates, thereby incorporating team cohesion and skill retention (capacity) into the ranking-based assessments.*
 
@@ -11,7 +11,7 @@ The following presents the evaluation methodology and outcomes for the 2025 ISCA
 
 ### 1.1 Data Sources
 We assessed teams using:
-- Written reports for Challenge 1 and Challenge 2.
+- Written reports for [Challenge 1](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main?tab=readme-ov-file#1-challenge-dataset-creation-july-1320-2025) and [Challenge 2](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main?tab=readme-ov-file#2-challenge-modeling-and-evaluation-july-2027-2025).
 - Supplementary materials including code repositories, Colab notebooks, and annotated datasets.
 - Official scoring criteria as specified in the competition guidelines.
 - Additional variables indicated by participants' prior experience, team cohesion, and skill retention based on dropout rates.
@@ -69,7 +69,7 @@ We assessed teams using:
 ## 3 Results
 
 The table below shows the **final team rankings** for Datathon 2025, calculated using our transparent scoring method.  
-For a detailed explanation of the formulas and methodology, see [Scoring Methodology](https://damieh1.github.io/evaluation).
+For a detailed explanation of the formulas and methodology, see full [Scoring Methodology](https://damieh1.github.io/evaluation).
 
 | Team   |   Total_Score |   Cohesion_Multiplier |   Capacity_Multiplier |   Final_Score |
 |:-------|--------------:|----------------------:|----------------------:|--------------:|
@@ -121,9 +121,7 @@ Missing values are marked as `N/A` and reflect *non-reporting*, not zero or fail
 | Team 2 | CardiffNLP/twitter-roberta-base-offensive | 87% | 0.58 | 0.85 | N/A | N/A | 0.93 | 0.24 | N/A | N/A | Final reported model |
 | Team 3 Bias Busters | CardiffNLP/twitter-roberta-base-hate | N/A | 0.617 | N/A | 0.567 | 0.677 | N/A | N/A | N/A | 0.2107 | Based on best model performance (Epoch 2) |
 
-
 ---
-
 
 ## 5 Final Verdict
 The top three teams in the weighted-score ranking—**Team 6 MagenCode**, **Team 3 Bias Busters**, and **Team 2**—distinguished themselves through sustained participation and the ability to deliver quality outputs despite two dropouts from the initial team.  
@@ -131,10 +129,8 @@ The top three teams in the weighted-score ranking—**Team 6 MagenCode**, **Team
 **Team 6 MagenCode**, which retained all four members, demonstrated the highest efficiency, producing a balanced dataset, achieving strong model performance (F1 = 0.899), and completing both challenges with comprehensive documentation.  
 
 **Team 3 Bias Busters** also maintained high productivity, combining transparent workflows with full challenge completion, despite a small reduction in team size.  
+**Team 2** began with five members and finished with three, yet they still delivered methodologically solid outputs for both challenges, including unseen data testing. 
 
-**Team 2** began with five members and finished with three, yet they still delivered methodologically solid outputs for both challenges, including unseen data testing.
-Although outside the top three in weighted ranking, 
-
-**Team 4** is notable for producing outputs on par with much larger teams, despite starting and finishing with only two members.
+Although outside the top three in weighted ranking, **Team 4** is notable for producing outputs on par with much larger teams, despite starting and finishing with only two members.
 
 ---
