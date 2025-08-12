@@ -1,7 +1,7 @@
 
 # Evaluation Methodology and Results
 
-The following presents the evaluation methodology and outcomes for the [ISCA Datathon & Machine Learning Competetion](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main). In total six teams engaged in two complementary challenges: (i) scraping adataset and apply an annotation framework for antisemitism detection, and (ii) model fine-tuning and evaluation of a goldstandard dataset.
+The following presents the evaluation methodology and outcomes for the [ISCA Datathon & Machine Learning Competetion](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main). In total six teams engaged in two complementary challenges: (i) scraping a dataset and apply an annotation framework for antisemitism detection, and (ii) model fine-tuning and evaluation of a goldstandard dataset.
 
 *The scoring framework integrates the official competition rubrics with additional variables related to team composition, prior experience, and dropout rates, thereby incorporating team cohesion and skill retention (capacity) into the ranking-based assessments.*
 
