@@ -114,8 +114,8 @@ For a detailed explanation of the formulas and methodology, see full [Scoring Me
 | Team   |   Total_Score |   Cohesion_Multiplier |   Capacity_Multiplier |   Final_Score |
 |:-------|--------------:|----------------------:|----------------------:|--------------:|
 | Team 6 |           119 |                  1.00 |                  1.00 |        119.00 |
-| Team 3 |           110 |                  0.75 |                  0.88 |         72.19 |
-| Team 2 |           115 |                  0.60 |                  0.67 |         46.00 |
+| Team 3 |           110 |                  0.75 |                  0.88 |         72.60 |
+| Team 2 |           115 |                  0.60 |                  0.67 |         46.23 |
 | Team 4 |           117 |                  0.50 |                  0.75 |         43.88 |
 | Team 1 |            25 |                  0.20 |                  0.50 |          2.50 |
 | Team 5 |             0 |                  0.00 |                  0.00 |          0.00 |
