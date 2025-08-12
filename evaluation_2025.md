@@ -66,24 +66,7 @@ We assessed teams using:
 
 ---
 
-## 3 Results
-
-The table below shows the **final team rankings** for the ISCA Datathon 2025.  
-For a detailed explanation of the formulas and methodology, see full [Scoring Methodology](https://damieh1.github.io/evaluation).
-
-| Team   |   Total_Score |   Cohesion_Multiplier |   Capacity_Multiplier |   Final_Score |
-|:-------|--------------:|----------------------:|----------------------:|--------------:|
-| Team 6 |           119 |                  1.00 |                  1.00 |        119.00 |
-| Team 3 |           110 |                  0.75 |                  0.88 |         72.19 |
-| Team 2 |           115 |                  0.60 |                  0.67 |         46.00 |
-| Team 4 |           117 |                  0.50 |                  0.75 |         43.88 |
-| Team 1 |            25 |                  0.20 |                  0.50 |          2.50 |
-| Team 5 |             0 |                  0.00 |                  0.00 |          0.00 |
-
-
----
-
-## 4 Evaluation Summary
+## 3 Evaluation Summary
 
 ## Challenge #1: Dataset Creation & Annotation – Top 3 Teams
 
@@ -120,6 +103,22 @@ Missing values are marked as `N/A` and reflect *non-reporting*, not zero or fail
 | Team 6 MagenCode | CardiffNLP/twitter-roberta-base-offensive | 90.15% | 0.899 | N/A | N/A | N/A | N/A | N/A | 0.397 | 0.183 | Final reported model (GPU computing) |
 | Team 2 | CardiffNLP/twitter-roberta-base-offensive | 87% | 0.58 | 0.85 | N/A | N/A | 0.93 | 0.24 | N/A | N/A | Final reported model |
 | Team 3 Bias Busters | CardiffNLP/twitter-roberta-base-hate | N/A | 0.617 | N/A | 0.567 | 0.677 | N/A | N/A | N/A | 0.2107 | Based on best model performance (Epoch 2) |
+
+---
+
+## 4 Results
+
+The table below shows the **final team rankings** for the ISCA Datathon 2025.  
+For a detailed explanation of the formulas and methodology, see full [Scoring Methodology](https://damieh1.github.io/evaluation).
+
+| Team   |   Total_Score |   Cohesion_Multiplier |   Capacity_Multiplier |   Final_Score |
+|:-------|--------------:|----------------------:|----------------------:|--------------:|
+| Team 6 |           119 |                  1.00 |                  1.00 |        119.00 |
+| Team 3 |           110 |                  0.75 |                  0.88 |         72.19 |
+| Team 2 |           115 |                  0.60 |                  0.67 |         46.00 |
+| Team 4 |           117 |                  0.50 |                  0.75 |         43.88 |
+| Team 1 |            25 |                  0.20 |                  0.50 |          2.50 |
+| Team 5 |             0 |                  0.00 |                  0.00 |          0.00 |
 
 ---
 
