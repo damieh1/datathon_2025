@@ -68,7 +68,7 @@ We assessed teams using:
 
 ## 3 Results
 
-The table below shows the **final team rankings** for Datathon 2025, calculated using our transparent scoring method.  
+The table below shows the **final team rankings** for the ISCA Datathon 2025.  
 For a detailed explanation of the formulas and methodology, see full [Scoring Methodology](https://damieh1.github.io/evaluation).
 
 | Team   |   Total_Score |   Cohesion_Multiplier |   Capacity_Multiplier |   Final_Score |
