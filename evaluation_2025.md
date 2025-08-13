@@ -101,7 +101,7 @@ Missing values are marked as `N/A` and reflect *non-reporting*, not zero or fail
 | Team | Model Used | Accuracy | Macro F1 | Weighted F1 | Precision | Recall | Class F1 (Not Offensive) | Class F1 (Offensive) | Eval Loss | Train Loss | Notes |
 |------|------------|----------|----------|-------------|-----------|--------|--------------------------|----------------------|-----------|------------|-------|
 | Team 6 MagenCode | CardiffNLP/twitter-roberta-base-offensive | 90.15% | 0.899 | N/A | N/A | N/A | N/A | N/A | 0.397 | 0.183 | Final reported model (GPU computing) |
-| Team 2 | CardiffNLP/twitter-roberta-base-offensive | 87% | 0.58 | 0.85 | N/A | N/A | 0.93 | 0.24 | N/A | N/A | Final reported model |
+| Team 2 Code4Clarity | CardiffNLP/twitter-roberta-base-offensive | 87% | 0.58 | 0.85 | N/A | N/A | 0.93 | 0.24 | N/A | N/A | Final reported model |
 | Team 3 Bias Busters | CardiffNLP/twitter-roberta-base-hate | N/A | 0.617 | N/A | 0.567 | 0.677 | N/A | N/A | N/A | 0.2107 | Based on best model performance (Epoch 2) |
 
 ---
