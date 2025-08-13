@@ -127,12 +127,22 @@ The top three teams in the weighted-score ranking—**Team 6 MagenCode**, **Team
 
 ### Placements
 
-- Rank #1: *MagenCode** (Team 6), which retained all four members, demonstrated the highest efficiency, producing a balanced dataset, achieving strong model performance (F1   = 0.899), and completing both challenges with comprehensive documentation.  
+- Rank #1: *MagenCode* (**Team 6**), which retained all four members, demonstrated the highest efficiency, producing a balanced dataset, achieving strong model performance (F1 = 0.899), and completing both challenges with comprehensive documentation.  
 
-- Rank #2: *Bias Busters** (Team 3) also maintained high productivity, combining transparent workflows with full challenge completion, despite a small reduction in team       size.  
+- Rank #2: *Bias Busters* (**Team 3**) also maintained high productivity, combining transparent workflows with full challenge completion, despite a small reduction in team size.  
 
-- Rank #3: *Code4Clarity** (Team 2) began with five members and finished with three, yet they still delivered methodologically solid outputs for both challenges, including unseen data     testing. 
+- Rank #3: *Code4Clarity* (**Team 2**) began with five members and finished with three, yet they still delivered methodologically solid outputs for both challenges, including unseen data testing. 
 
-  Although outside the top three in weighted ranking, **Team 4** is notable for producing outputs on par with much larger teams, despite starting and finishing      with only two members.
+  Although outside the top three in weighted ranking, **Team 4** is notable for producing outputs on par with much larger teams, despite starting and finishing with only two members.
 
 ---
+
+<div style="font-size: 0.2em; color: #555; margin-top: 2em;">
+  <p>
+    All materials in this repository were created by <a href="https://damieh1.github.io/">Daniel Miehling</a>, unless otherwise noted.
+  </p>
+  <p>
+    Please contact <a href="mailto:damieh@iu.edu">damieh@iu.edu</a> for reuse permissions or collaboration inquiries.
+  </p>
+</div>
+
