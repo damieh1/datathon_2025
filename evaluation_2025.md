@@ -123,7 +123,7 @@ For a detailed explanation of the formulas and methodology, see full [Scoring Me
 ---
 
 ## 5 Final Verdict
-The top three teams in the weighted-score ranking—**Team 6 MagenCode**, **Team 3 Bias Busters**, and **Team 2**—distinguished themselves through sustained participation and the ability to deliver quality outputs.  
+The top three teams in the weighted-score ranking—**Team 6 MagenCode**, **Team 3 Bias Busters**, and **Team 2 Code4Clarity**—distinguished themselves through sustained participation and the ability to deliver quality outputs.  
 
 ### Placements
 
@@ -131,7 +131,7 @@ The top three teams in the weighted-score ranking—**Team 6 MagenCode**, **Team
 
 - Rank #2: **Team 3 Bias Busters** also maintained high productivity, combining transparent workflows with full challenge completion, despite a small reduction in team       size.  
 
-- Rank #3: **Team 2** began with five members and finished with three, yet they still delivered methodologically solid outputs for both challenges, including unseen data     testing. 
+- Rank #3: **Team 2 Code4Clarity** began with five members and finished with three, yet they still delivered methodologically solid outputs for both challenges, including unseen data     testing. 
 
   Although outside the top three in weighted ranking, **Team 4** is notable for producing outputs on par with much larger teams, despite starting and finishing      with only two members.
 
