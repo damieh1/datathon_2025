@@ -70,21 +70,21 @@ We assessed teams using:
 
 ## Challenge #1: Dataset Creation & Annotation – Top 3 Teams
 
-### Team 6 MagenCode
+### Team 6 *MagenCode*
 - Collected **355 tweets** from relevant hashtags and keywords.  
 - Applied an annotation scheme aligned with **IHRA-WDA**, labeling posts as antisemitic or not.  
 - Report included clear keyword/time range, label definitions, and distribution.  
 - Conducted **IAA calculation** (Cohen’s Kappa = 0.54, moderate agreement).  
 - Reflected on limitations and challenges in interpreting borderline cases.  
 
-### Team 3 Bias Busters
+### Team 3 *Bias Busters*
 - Collected a diverse sample of tweets using targeted keywords and user accounts.  
 - Adapted IHRA-WDA to their schema and provided justification for category choices.  
 - Annotation carried out by all members; no formal IAA reported.  
 - Dataset report was transparent, with methodology and label descriptions clearly documented.  
 - Included discussion of ambiguity in borderline cases and recommendations for future refinements.  
 
-### Team 2
+### Team 2 *Code4Clarity*
 - Collected tweets from multiple sources using hashtags, keywords, and user handles.  
 - Applied IHRA-WDA without modifications.  
 - Reported **IAA score**, though agreement was relatively low.  
@@ -100,9 +100,9 @@ Missing values are marked as `N/A` and reflect *non-reporting*, not zero or fail
 
 | Team | Model Used | Accuracy | Macro F1 | Weighted F1 | Precision | Recall | Class F1 (Not Offensive) | Class F1 (Offensive) | Eval Loss | Train Loss | Notes |
 |------|------------|----------|----------|-------------|-----------|--------|--------------------------|----------------------|-----------|------------|-------|
-| Team 6 MagenCode | CardiffNLP/twitter-roberta-base-offensive | 90.15% | 0.899 | N/A | N/A | N/A | N/A | N/A | 0.397 | 0.183 | Final reported model (GPU computing) |
-| Team 2 Code4Clarity | CardiffNLP/twitter-roberta-base-offensive | 87% | 0.58 | 0.85 | N/A | N/A | 0.93 | 0.24 | N/A | N/A | Final reported model |
-| Team 3 Bias Busters | CardiffNLP/twitter-roberta-base-hate | N/A | 0.617 | N/A | 0.567 | 0.677 | N/A | N/A | N/A | 0.2107 | Based on best model performance (Epoch 2) |
+| Team 6 *MagenCode* | CardiffNLP/twitter-roberta-base-offensive | 90.15% | 0.899 | N/A | N/A | N/A | N/A | N/A | 0.397 | 0.183 | Final reported model (GPU computing) |
+| Team 2 *Code4Clarity* | CardiffNLP/twitter-roberta-base-offensive | 87% | 0.58 | 0.85 | N/A | N/A | 0.93 | 0.24 | N/A | N/A | Final reported model |
+| Team 3 *Bias Busters* | CardiffNLP/twitter-roberta-base-hate | N/A | 0.617 | N/A | 0.567 | 0.677 | N/A | N/A | N/A | 0.2107 | Based on best model performance (Epoch 2) |
 
 ---
 
@@ -127,11 +127,11 @@ The top three teams in the weighted-score ranking—**Team 6 MagenCode**, **Team
 
 ### Placements
 
-- Rank #1: **Team 6 MagenCode**, which retained all four members, demonstrated the highest efficiency, producing a balanced dataset, achieving strong model performance (F1   = 0.899), and completing both challenges with comprehensive documentation.  
+- Rank #1: *MagenCode** (Team 6), which retained all four members, demonstrated the highest efficiency, producing a balanced dataset, achieving strong model performance (F1   = 0.899), and completing both challenges with comprehensive documentation.  
 
-- Rank #2: **Team 3 Bias Busters** also maintained high productivity, combining transparent workflows with full challenge completion, despite a small reduction in team       size.  
+- Rank #2: *Bias Busters** (Team 3) also maintained high productivity, combining transparent workflows with full challenge completion, despite a small reduction in team       size.  
 
-- Rank #3: **Team 2 Code4Clarity** began with five members and finished with three, yet they still delivered methodologically solid outputs for both challenges, including unseen data     testing. 
+- Rank #3: *Code4Clarity** (Team 2) began with five members and finished with three, yet they still delivered methodologically solid outputs for both challenges, including unseen data     testing. 
 
   Although outside the top three in weighted ranking, **Team 4** is notable for producing outputs on par with much larger teams, despite starting and finishing      with only two members.
 
