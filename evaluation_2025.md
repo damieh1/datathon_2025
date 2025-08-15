@@ -9,22 +9,21 @@ The following presents the evaluation methodology and outcomes for the [ISCA Dat
 
 ## Datathon & ML Competition on Antisemitism 2025
 
-### Workflow
-
+```
+│───── Datathon Structure (Overall)
 │
 ├── Phase 1: Onboarding & Setup
 │   ├── Workshop 1 (Intro + Conceptual Input)
-│   │   └── Social media antisemitism – Prof. Jikeli
-│   ├── Team Formation
-│   ├── Tool Access (Bright Data, Annotation Portal, GitHub, Colab)
-│   └── Team Roles (Data Manager, Portal Manager, Annotators)
+│       └── Shifting trends on Social Media after October 7th
 │
 ├── Phase 2: Challenge #1 – Annotation Pipeline
 │   ├── Workshop 2 (Hands-on Tutorial)
+│   ├── Tool Access (Bright Data, Annotation Portal, GitHub, Colab)
 │   ├── Bright Data scraping (Twitter/X)
 │   ├── Preprocessing via Colab
 │   ├── Upload to Annotation Portal
 │   ├── Develop annotation rationale (framework: IHRA, JDA, etc.)
+│   ├── Team Roles (Data Manager, Portal Manager, Annotators)
 │   ├── Team-based annotation & discussion
 │   └── Deliverables:
 │       ├── Annotated dataset
@@ -32,7 +31,7 @@ The following presents the evaluation methodology and outcomes for the [ISCA Dat
 │       └── GitHub repo with code & documentation
 │
 ├── Phase 3: Challenge #2 – Modeling & Evaluation
-│   ├── Workshop 3 (Prof. Cavar input + ML modeling)
+│   ├── Workshop 3 (Basic in NLP + ML modeling)
 │   ├── Use gold-standard datasets (Zenodo)
 │   ├── Fine-tune transformer model (e.g., BERTweet, HateBERT)
 │   ├── Train/test with binary classification task
@@ -61,7 +60,7 @@ The following presents the evaluation methodology and outcomes for the [ISCA Dat
         ├── Team engagement & division of roles
         ├── Dropout levels / consistency of collaboration
         └── Quality and clarity of submitted documentation
-
+```
 
 ---
 
