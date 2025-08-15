@@ -7,6 +7,65 @@ The following presents the evaluation methodology and outcomes for the [ISCA Dat
 
 ---
 
+## Datathon & ML Competition on Antisemitism 2025
+
+### Workflow
+
+│
+├── Phase 1: Onboarding & Setup
+│   ├── Workshop 1 (Intro + Conceptual Input)
+│   │   └── Social media antisemitism – Prof. Jikeli
+│   ├── Team Formation
+│   ├── Tool Access (Bright Data, Annotation Portal, GitHub, Colab)
+│   └── Team Roles (Data Manager, Portal Manager, Annotators)
+│
+├── Phase 2: Challenge #1 – Annotation Pipeline
+│   ├── Workshop 2 (Hands-on Tutorial)
+│   ├── Bright Data scraping (Twitter/X)
+│   ├── Preprocessing via Colab
+│   ├── Upload to Annotation Portal
+│   ├── Develop annotation rationale (framework: IHRA, JDA, etc.)
+│   ├── Team-based annotation & discussion
+│   └── Deliverables:
+│       ├── Annotated dataset
+│       ├── Annotation report (IAA scores, framework explanation)
+│       └── GitHub repo with code & documentation
+│
+├── Phase 3: Challenge #2 – Modeling & Evaluation
+│   ├── Workshop 3 (Prof. Cavar input + ML modeling)
+│   ├── Use gold-standard datasets (Zenodo)
+│   ├── Fine-tune transformer model (e.g., BERTweet, HateBERT)
+│   ├── Train/test with binary classification task
+│   └── Deliverables:
+│       ├── Model code + GitHub repo
+│       ├── Evaluation report (F1, accuracy, confusion matrix)
+│       ├── Reflections on classification performance
+│       └── Bonus: generalization test on novel data
+│
+├── Final Submission (by August 5)
+│   ├── All reports in PDF or DOCX
+│   ├── GitHub links
+│   └── List of team members + team name
+│
+└── Evaluation Criteria (for Winner Selection)
+    ├── Challenge 1
+    │   ├── Annotation completeness + agreement
+    │   ├── Quality of rationale + schema use
+    │   └── Technical transparency (code, colab, structure)
+    ├── Challenge 2
+    │   ├── Modeling quality + documentation
+    │   ├── Interpretation of results + error analysis
+    │   └── Bonus: generalization test
+    └── Overall Evaluation
+        ├── Learning outcomes (via survey)
+        ├── Team engagement & division of roles
+        ├── Dropout levels / consistency of collaboration
+        └── Quality and clarity of submitted documentation
+
+
+---
+
+
 ## 1 Evaluation Framework
 
 ### 1.1 Data Sources
@@ -44,6 +103,7 @@ We assessed teams using:
 
 
 ---
+
 ## Addtional Evaluation Variables
 
 ### Team composition
