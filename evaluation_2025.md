@@ -10,7 +10,7 @@ The following presents the evaluation methodology and outcomes for the [ISCA Dat
 ## Datathon & ML Competition on Antisemitism 2025
 
 ```
-│───── Datathon Structure (Overall)
+│────── Datathon Structure (Overall)
 │
 ├── Phase 1: Onboarding & Setup
 │   ├── Workshop 1 (Intro + Conceptual Input)
