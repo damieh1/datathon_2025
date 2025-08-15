@@ -12,7 +12,7 @@ The following presents the evaluation methodology and outcomes for the [ISCA Dat
 ```
 │────── Datathon Structure (Overall)
 │
-├── Phase 1: Onboarding & Setup
+├── Phase 1: Introduction & Setup
 │   ├── Workshop 1 (Intro + Conceptual Input)
 │       └── Shifting trends on Social Media after October 7th
 │
