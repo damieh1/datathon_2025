@@ -10,6 +10,7 @@ https://isca.indiana.edu/publication-research/social-media-project/datathon-2025
 2. [Deliverables](#deliverables)  
 3. [Prizes & Certificates](#prizes--certificates)  
 4. [Resources and Past Events](#resources-and-past-events)
+5. [Evaluation of the Datathon and Winning Teams](https://github.com/damieh1/datathon_2025/blob/root/evaluation_2025.md)
 
 ---
 
