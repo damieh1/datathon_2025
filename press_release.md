@@ -3,7 +3,8 @@
 
 Bloomington, IN — The **Institute for the Study of Contemporary Antisemitism (ISCA) at Indiana University** successfully hosted the **ISCA Datathon & Machine Learning Competition on Antisemitism 2025**, bringing together high school and undergraduate students from across the country to address one of today’s most pressing challenges: detecting and understanding antisemitic hate speech online.  
 
-The competition was **redesigned by Dr. Daniel Miehling (Computational Research Coordinator)**, who created the challenges and evaluation framework, and was **coordinated by Rachel Kelly (Project Manager)**, who oversaw communication and outreach. The program also featured academic leadership from **Prof. Günther Jikeli** (conceptual framing) and **Prof. Damir Cavar** (introduction into Large Language Models).  
+The event was **coordinated by Rachel Kelly (Project Manager)**, who oversaw communications and outreach. The competition’s challenges and evaluation framework were **developed and led by Dr. Daniel Miehling (Computational Research Coordinator)**, providing an innovative and inclusive structure for participants. Academic leadership was further contributed by **Prof. Günther Jikeli** (introduction to the conceptual background) and **Prof. Damir Cavar** (introduction to large language models).
+
 
 Over two weeks, participants completed two challenges:  
 1. **Dataset Creation & Annotation** — scraping and labeling tweets using the ISCA Annotation Portal.  
