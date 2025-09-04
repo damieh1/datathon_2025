@@ -23,4 +23,4 @@ This year’s Datathon was made possible thanks to the generous support of **[Th
 ### Congratulations  
 ISCA congratulates all participants for their creativity, dedication, and teamwork. The ISCA Datathon 2025 demonstrated the potential of young researchers to combine conceptual frameworks and computational methods in confronting antisemitism online.  
 
-For a more detailed report, visit the **[ISCA Datathon 2025 page](https://isca.indiana.edu/publication-research/social-media-project/datathon-2025/index.html)**.  
+For a more detailed report, visit the **[ISCA Datathon 2025 page](https://isca.indiana.edu/publication-research/social-media-project/datathon-2025/index.html)** (this link needs to be updated — perhaps the other report I created).  
