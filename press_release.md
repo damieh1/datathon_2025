@@ -6,7 +6,7 @@ Bloomington, IN — The **Institute for the Study of Contemporary Antisemitism (
 The event was **coordinated by Rachel Kelly (Project Manager)**, who oversaw communications and outreach. The competition’s challenges and evaluation framework were **developed and led by Dr. Daniel Miehling (Computational Research Coordinator)**, providing an innovative and inclusive structure for participants. Academic leadership was further contributed by **Prof. Günther Jikeli** (introduction to the conceptual background) and **Prof. Damir Cavar** (introduction to large language models).
 
 
-Over two weeks, participants completed two challenges:  
+Over three workshops, participants completed two challenges:  
 1. **Dataset Creation & Annotation** — scraping and labeling tweets using the ISCA Annotation Portal.  
 2. **Modeling & Evaluation** — training transformer models to automatically detect antisemitic content.  
 
