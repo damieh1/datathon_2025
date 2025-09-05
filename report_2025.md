@@ -43,6 +43,8 @@ We extend our warm congratulations to **all participants** — high school and u
 
 Through this year’s competition, students not only gained experience in **annotation, dataset creation, and model evaluation**, but also learned to critically reflect on the limits and responsibilities of automated hate-speech detection.  
 
+---
+
 <div style="font-size: 0.2em; color: #555; margin-top: 2em;">
   <p>
     All materials in this repository were created by <a href="https://damieh1.github.io/">Daniel Miehling</a>, unless otherwise noted.
