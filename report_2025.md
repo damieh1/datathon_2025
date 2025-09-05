@@ -2,7 +2,7 @@
 
 The **[ISCA Datathon & Machine Learning Competition on Antisemitism 2025](https://isca.indiana.edu/publication-research/social-media-project/datathon-2025/index.html)**, hosted by the **[Institute for the Study of Contemporary Antisemitism (ISCA), Indiana University](https://isca.indiana.edu/)**, brought together high school and undergraduate students to explore the technical and conceptual challenges of detecting antisemitic hate speech online.  
 
-The Datathon was coordinated by **[Rachel Kelly](https://isca.indiana.edu/about/our-team/faculty-and-staff/3rachel-kelly.html) (Project Manager)**, and managed all correspondence and social media communications. **Dr. [Daniel Miehling](https://damieh1.github.io//) (Computational Research Coordinator)** created and redesigned the challenges and evaluation framework based on prior experience and led the [second workshop](https://www.youtube.com/watch?v=EMuQFb-H0CE) on practical methods (scraping, annotation, coding foundations, evaluation). **Prof. [Günther Jikeli](https://isca.indiana.edu/about/our-team/faculty-and-staff/1jikeli-gunther.html) (ISCA Associate Director)** provided the conceptual framing in the opening session, and **Prof. [Damir Cavar](https://damir.cavar.me/)** introduced automated text analysis in [Workshop 3](https://www.youtube.com/watch?v=ERwkQuVQshU).  
+The Datathon was coordinated by **[Rachel Kelly](https://isca.indiana.edu/about/our-team/faculty-and-staff/3rachel-kelly.html) (Project Manager)**, who managed all correspondence with our partners and social media communications. **[Daniel Miehling](https://damieh1.github.io//) (Computational Research Coordinator)** created and redesigned the challenges and evaluation framework based on iterations of previous Datathons. He also led the [second workshop](https://www.youtube.com/watch?v=EMuQFb-H0CE) on practical methods, including scraping, annotation, coding foundations, and evaluation. **[Günther Jikeli](https://isca.indiana.edu/about/our-team/faculty-and-staff/1jikeli-gunther.html) (ISCA Associate Director)** provided the conceptual framing in the opening session, and **[Damir Cavar](https://damir.cavar.me/)** introduced automated text analysis in [Workshop 3](https://www.youtube.com/watch?v=ERwkQuVQshU).  
 
 We gratefully acknowledge our partners and sponsors — **[The Bright Initiative by Bright Data](https://brightinitiative.com/)**, **[Indiana University](https://indiana.edu/)**, **[World Jewish Congress](https://www.worldjewishcongress.org/)**, **[TECHRI – Technology and Human Rights Institute](https://www.worldjewishcongress.org/en/what-we-do/techri)**, **[Jewish Federation of Greater Indianapolis](https://www.jewishindianapolis.org/)**, and **Diane M. Druck** — all of whom made this competition possible.  
 
@@ -22,18 +22,18 @@ Using ISCA’s **gold-standard antisemitism datasets**, teams fine-tuned transfo
 
 ### Top 3 Teams
 
-- **Rank #1: Team 6 – MagenCode**  
+- **Rank #1: Team 6 – MagenCode** *(Oriel Atias, Giulio Zuckermann, Eliana Woolf and Asher Rosenfeld)*
   Retained all four members, created a 355-tweet dataset aligned with IHRA-WDA, reported Cohen’s Kappa = 0.54 (moderate agreement), and fine-tuned RoBERTa to achieve **Macro F1 ≈ 0.899**. Strong methodology and full documentation secured their top placement.  
 
-- **Rank #2: Team 3 – Bias Busters**  
+- **Rank #2: Team 3 – Bias Busters** *(Dvir Sacho-Tanzer, Jacob Neuer and Jennifer Cronkright)*
   Collected a diverse dataset, adapted IHRA-WDA with justification, and documented methodology transparently. Their RoBERTa-hate model achieved **Macro F1 ≈ 0.617**. Despite reduced team size, they completed both challenges comprehensively.  
 
-- **Rank #3: Team 2 – Code4Clarity**  
+- **Rank #3: Team 2 – Code4Clarity** *(Syed Afnan Adit, Mark Vinokur and Saisha Siram)*
   Applied IHRA-WDA directly, reported IAA (low but transparent), and built a well-structured dataset. Their RoBERTa-offensive model achieved **Accuracy ≈ 87%**, with clear error analysis and even unseen-data testing.  
 
 ### Honorable Mention  
 
-- **Team 4** delivered high-quality results comparable to larger teams despite working with only two members throughout the Datathon.  
+- **Team 4** *(Dena Shink and Daniel Macholl)* delivered high-quality results comparable to larger teams despite working with only two members throughout the Datathon.  
 
 ---
 
